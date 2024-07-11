@@ -7,3 +7,4 @@ langchain-pinecone
 uvicorn
 langchain-community
 pycryptodome
+pymupdf
